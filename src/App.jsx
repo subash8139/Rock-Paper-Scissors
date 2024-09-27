@@ -189,7 +189,7 @@ function App() {
             Stone Papper Scissors
           </div>
         </div>
-        {isNameSaved === false ?
+        {isNameSaved === false ? 
           <div>
             <div style={{ marginTop: "3rem", display: "flex", justifyContent: "center" }}>
               <div>
